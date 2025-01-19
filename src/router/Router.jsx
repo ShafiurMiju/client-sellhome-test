@@ -1,10 +1,10 @@
 import { createBrowserRouter } from "react-router-dom";
 import LoginForm from "../pages/LoginForm";
-import PropertySearch from "../pages/propertySearch";
 import OwnerPortfolioView from "../pages/OwnerPortfolioView";
 // import AutocompleteSearch from "../pages/AutocompleteSearch";
 import WhoWeServe from "../pages/WhoWeServe";
 import Reviews from "../pages/Reviews";
+import PropertySearch from "../pages/PropertySearch";
 // import Coms from "../pages/Coms";
 // import Test from "../pages/FullDropDown";
 // import PropertyHistory from "../pages/PropertyHistory";
