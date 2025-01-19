@@ -309,7 +309,7 @@ const OwnerPortfolioView = () => {
               <span className="text-lg">+</span> Add
             </button> */}
             <button
-              onClick={() => navigate("/")}
+              onClick={() => navigate("/property-search")}
               className="p-2 hover:bg-gray-100 rounded"
             >
               <X size={20} />

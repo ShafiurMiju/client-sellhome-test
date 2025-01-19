@@ -19,11 +19,11 @@ const ProtectedRoute = ({ element }) => {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/property-search",
     element: <PropertySearch />,
   },
   {
-    path: "/login",
+    path: "/",
     element: <LoginForm />,
   },
   {

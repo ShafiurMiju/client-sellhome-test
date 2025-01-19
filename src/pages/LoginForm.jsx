@@ -48,7 +48,7 @@ const LoginForm = () => {
         console.log(result); // Replace with navigation logic if needed
 
         // Navigate to PropertySearch
-        navigate("/");
+        navigate("/property-search");
       } else {
         const error = await response.json();
         toast.error(error.message || "Login failed");
