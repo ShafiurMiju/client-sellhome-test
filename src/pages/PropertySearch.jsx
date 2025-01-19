@@ -169,7 +169,7 @@ const PropertySearch = () => {
       {/* Main Content */}
       <div className="text-center px-4 mt-16">
         <h1 className="text-white text-3xl font-bold mb-20">
-        Search 157+ Million MLS & Off-Market Properties.
+        Search 157+ Million MLS & Off-Market Properties...
         </h1>
         {/* Search Form */}
         <div className="flex flex-col gap-2 max-w-4xl mx-auto relative">
